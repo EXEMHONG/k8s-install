@@ -1,2 +1,2 @@
 # k8s-install
-k8s
+2024-05-02 k8s 1.27 ver Upload fin
